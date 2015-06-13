@@ -1,0 +1,1198 @@
+123 gets palindromic after 1 steps: 444
+286 gets palindromic after 23 steps: 8813200023188
+196196871 gets palindromic after 45 steps: 4478555400006996000045558744
+0 gets palindromic after 0 steps: 0
+1 gets palindromic after 0 steps: 1
+2 gets palindromic after 0 steps: 2
+3 gets palindromic after 0 steps: 3
+4 gets palindromic after 0 steps: 4
+5 gets palindromic after 0 steps: 5
+6 gets palindromic after 0 steps: 6
+7 gets palindromic after 0 steps: 7
+8 gets palindromic after 0 steps: 8
+9 gets palindromic after 0 steps: 9
+10 gets palindromic after 1 steps: 11
+11 gets palindromic after 0 steps: 11
+12 gets palindromic after 1 steps: 33
+13 gets palindromic after 1 steps: 44
+14 gets palindromic after 1 steps: 55
+15 gets palindromic after 1 steps: 66
+16 gets palindromic after 1 steps: 77
+17 gets palindromic after 1 steps: 88
+18 gets palindromic after 1 steps: 99
+19 gets palindromic after 2 steps: 121
+20 gets palindromic after 1 steps: 22
+21 gets palindromic after 1 steps: 33
+22 gets palindromic after 0 steps: 22
+23 gets palindromic after 1 steps: 55
+24 gets palindromic after 1 steps: 66
+25 gets palindromic after 1 steps: 77
+26 gets palindromic after 1 steps: 88
+27 gets palindromic after 1 steps: 99
+28 gets palindromic after 2 steps: 121
+29 gets palindromic after 1 steps: 121
+30 gets palindromic after 1 steps: 33
+31 gets palindromic after 1 steps: 44
+32 gets palindromic after 1 steps: 55
+33 gets palindromic after 0 steps: 33
+34 gets palindromic after 1 steps: 77
+35 gets palindromic after 1 steps: 88
+36 gets palindromic after 1 steps: 99
+37 gets palindromic after 2 steps: 121
+38 gets palindromic after 1 steps: 121
+39 gets palindromic after 2 steps: 363
+40 gets palindromic after 1 steps: 44
+41 gets palindromic after 1 steps: 55
+42 gets palindromic after 1 steps: 66
+43 gets palindromic after 1 steps: 77
+44 gets palindromic after 0 steps: 44
+45 gets palindromic after 1 steps: 99
+46 gets palindromic after 2 steps: 121
+47 gets palindromic after 1 steps: 121
+48 gets palindromic after 2 steps: 363
+49 gets palindromic after 2 steps: 484
+50 gets palindromic after 1 steps: 55
+51 gets palindromic after 1 steps: 66
+52 gets palindromic after 1 steps: 77
+53 gets palindromic after 1 steps: 88
+54 gets palindromic after 1 steps: 99
+55 gets palindromic after 0 steps: 55
+56 gets palindromic after 1 steps: 121
+57 gets palindromic after 2 steps: 363
+58 gets palindromic after 2 steps: 484
+59 gets palindromic after 3 steps: 1111
+60 gets palindromic after 1 steps: 66
+61 gets palindromic after 1 steps: 77
+62 gets palindromic after 1 steps: 88
+63 gets palindromic after 1 steps: 99
+64 gets palindromic after 2 steps: 121
+65 gets palindromic after 1 steps: 121
+66 gets palindromic after 0 steps: 66
+67 gets palindromic after 2 steps: 484
+68 gets palindromic after 3 steps: 1111
+69 gets palindromic after 4 steps: 4884
+70 gets palindromic after 1 steps: 77
+71 gets palindromic after 1 steps: 88
+72 gets palindromic after 1 steps: 99
+73 gets palindromic after 2 steps: 121
+74 gets palindromic after 1 steps: 121
+75 gets palindromic after 2 steps: 363
+76 gets palindromic after 2 steps: 484
+77 gets palindromic after 0 steps: 77
+78 gets palindromic after 4 steps: 4884
+79 gets palindromic after 6 steps: 44044
+80 gets palindromic after 1 steps: 88
+81 gets palindromic after 1 steps: 99
+82 gets palindromic after 2 steps: 121
+83 gets palindromic after 1 steps: 121
+84 gets palindromic after 2 steps: 363
+85 gets palindromic after 2 steps: 484
+86 gets palindromic after 3 steps: 1111
+87 gets palindromic after 4 steps: 4884
+88 gets palindromic after 0 steps: 88
+89 gets palindromic after 24 steps: 8813200023188
+90 gets palindromic after 1 steps: 99
+91 gets palindromic after 2 steps: 121
+92 gets palindromic after 1 steps: 121
+93 gets palindromic after 2 steps: 363
+94 gets palindromic after 2 steps: 484
+95 gets palindromic after 3 steps: 1111
+96 gets palindromic after 4 steps: 4884
+97 gets palindromic after 6 steps: 44044
+98 gets palindromic after 24 steps: 8813200023188
+99 gets palindromic after 0 steps: 99
+100 gets palindromic after 1 steps: 101
+101 gets palindromic after 0 steps: 101
+102 gets palindromic after 1 steps: 303
+103 gets palindromic after 1 steps: 404
+104 gets palindromic after 1 steps: 505
+105 gets palindromic after 1 steps: 606
+106 gets palindromic after 1 steps: 707
+107 gets palindromic after 1 steps: 808
+108 gets palindromic after 1 steps: 909
+109 gets palindromic after 2 steps: 1111
+110 gets palindromic after 1 steps: 121
+111 gets palindromic after 0 steps: 111
+112 gets palindromic after 1 steps: 323
+113 gets palindromic after 1 steps: 424
+114 gets palindromic after 1 steps: 525
+115 gets palindromic after 1 steps: 626
+116 gets palindromic after 1 steps: 727
+117 gets palindromic after 1 steps: 828
+118 gets palindromic after 1 steps: 929
+119 gets palindromic after 2 steps: 1331
+120 gets palindromic after 1 steps: 141
+121 gets palindromic after 0 steps: 121
+122 gets palindromic after 1 steps: 343
+123 gets palindromic after 1 steps: 444
+124 gets palindromic after 1 steps: 545
+125 gets palindromic after 1 steps: 646
+126 gets palindromic after 1 steps: 747
+127 gets palindromic after 1 steps: 848
+128 gets palindromic after 1 steps: 949
+129 gets palindromic after 2 steps: 1551
+130 gets palindromic after 1 steps: 161
+131 gets palindromic after 0 steps: 131
+132 gets palindromic after 1 steps: 363
+133 gets palindromic after 1 steps: 464
+134 gets palindromic after 1 steps: 565
+135 gets palindromic after 1 steps: 666
+136 gets palindromic after 1 steps: 767
+137 gets palindromic after 1 steps: 868
+138 gets palindromic after 1 steps: 969
+139 gets palindromic after 2 steps: 1771
+140 gets palindromic after 1 steps: 181
+141 gets palindromic after 0 steps: 141
+142 gets palindromic after 1 steps: 383
+143 gets palindromic after 1 steps: 484
+144 gets palindromic after 1 steps: 585
+145 gets palindromic after 1 steps: 686
+146 gets palindromic after 1 steps: 787
+147 gets palindromic after 1 steps: 888
+148 gets palindromic after 1 steps: 989
+149 gets palindromic after 2 steps: 1991
+150 gets palindromic after 2 steps: 303
+151 gets palindromic after 0 steps: 151
+152 gets palindromic after 2 steps: 707
+153 gets palindromic after 2 steps: 909
+154 gets palindromic after 2 steps: 1111
+155 gets palindromic after 3 steps: 4444
+156 gets palindromic after 3 steps: 6666
+157 gets palindromic after 3 steps: 8888
+158 gets palindromic after 3 steps: 11011
+159 gets palindromic after 2 steps: 1221
+160 gets palindromic after 2 steps: 343
+161 gets palindromic after 0 steps: 161
+162 gets palindromic after 2 steps: 747
+163 gets palindromic after 2 steps: 949
+164 gets palindromic after 3 steps: 2662
+165 gets palindromic after 3 steps: 4884
+166 gets palindromic after 5 steps: 45254
+167 gets palindromic after 11 steps: 88555588
+168 gets palindromic after 3 steps: 13431
+169 gets palindromic after 2 steps: 1441
+170 gets palindromic after 2 steps: 383
+171 gets palindromic after 0 steps: 171
+172 gets palindromic after 2 steps: 787
+173 gets palindromic after 2 steps: 989
+174 gets palindromic after 4 steps: 5115
+175 gets palindromic after 4 steps: 9559
+176 gets palindromic after 5 steps: 44044
+177 gets palindromic after 15 steps: 8836886388
+178 gets palindromic after 3 steps: 15851
+179 gets palindromic after 2 steps: 1661
+180 gets palindromic after 3 steps: 747
+181 gets palindromic after 0 steps: 181
+182 gets palindromic after 6 steps: 45254
+183 gets palindromic after 4 steps: 13431
+184 gets palindromic after 3 steps: 2552
+185 gets palindromic after 3 steps: 4774
+186 gets palindromic after 3 steps: 6996
+187 gets palindromic after 23 steps: 8813200023188
+188 gets palindromic after 7 steps: 233332
+189 gets palindromic after 2 steps: 1881
+190 gets palindromic after 7 steps: 45254
+191 gets palindromic after 0 steps: 191
+192 gets palindromic after 4 steps: 6996
+193 gets palindromic after 8 steps: 233332
+194 gets palindromic after 3 steps: 2992
+195 gets palindromic after 4 steps: 9339
+196 does not get palindromic in under 10,000 steps
+197 gets palindromic after 7 steps: 881188
+198 gets palindromic after 5 steps: 79497
+199 gets palindromic after 3 steps: 3113
+200 gets palindromic after 1 steps: 202
+201 gets palindromic after 1 steps: 303
+202 gets palindromic after 0 steps: 202
+203 gets palindromic after 1 steps: 505
+204 gets palindromic after 1 steps: 606
+205 gets palindromic after 1 steps: 707
+206 gets palindromic after 1 steps: 808
+207 gets palindromic after 1 steps: 909
+208 gets palindromic after 2 steps: 1111
+209 gets palindromic after 1 steps: 1111
+210 gets palindromic after 1 steps: 222
+211 gets palindromic after 1 steps: 323
+212 gets palindromic after 0 steps: 212
+213 gets palindromic after 1 steps: 525
+214 gets palindromic after 1 steps: 626
+215 gets palindromic after 1 steps: 727
+216 gets palindromic after 1 steps: 828
+217 gets palindromic after 1 steps: 929
+218 gets palindromic after 2 steps: 1331
+219 gets palindromic after 2 steps: 2442
+220 gets palindromic after 1 steps: 242
+221 gets palindromic after 1 steps: 343
+222 gets palindromic after 0 steps: 222
+223 gets palindromic after 1 steps: 545
+224 gets palindromic after 1 steps: 646
+225 gets palindromic after 1 steps: 747
+226 gets palindromic after 1 steps: 848
+227 gets palindromic after 1 steps: 949
+228 gets palindromic after 2 steps: 1551
+229 gets palindromic after 2 steps: 2662
+230 gets palindromic after 1 steps: 262
+231 gets palindromic after 1 steps: 363
+232 gets palindromic after 0 steps: 232
+233 gets palindromic after 1 steps: 565
+234 gets palindromic after 1 steps: 666
+235 gets palindromic after 1 steps: 767
+236 gets palindromic after 1 steps: 868
+237 gets palindromic after 1 steps: 969
+238 gets palindromic after 2 steps: 1771
+239 gets palindromic after 2 steps: 2882
+240 gets palindromic after 1 steps: 282
+241 gets palindromic after 1 steps: 383
+242 gets palindromic after 0 steps: 242
+243 gets palindromic after 1 steps: 585
+244 gets palindromic after 1 steps: 686
+245 gets palindromic after 1 steps: 787
+246 gets palindromic after 1 steps: 888
+247 gets palindromic after 1 steps: 989
+248 gets palindromic after 2 steps: 1991
+249 gets palindromic after 3 steps: 5115
+250 gets palindromic after 2 steps: 505
+251 gets palindromic after 2 steps: 707
+252 gets palindromic after 0 steps: 252
+253 gets palindromic after 2 steps: 1111
+254 gets palindromic after 3 steps: 4444
+255 gets palindromic after 3 steps: 6666
+256 gets palindromic after 3 steps: 8888
+257 gets palindromic after 3 steps: 11011
+258 gets palindromic after 2 steps: 1221
+259 gets palindromic after 2 steps: 2332
+260 gets palindromic after 2 steps: 545
+261 gets palindromic after 2 steps: 747
+262 gets palindromic after 0 steps: 262
+263 gets palindromic after 3 steps: 2662
+264 gets palindromic after 3 steps: 4884
+265 gets palindromic after 5 steps: 45254
+266 gets palindromic after 11 steps: 88555588
+267 gets palindromic after 3 steps: 13431
+268 gets palindromic after 2 steps: 1441
+269 gets palindromic after 2 steps: 2552
+270 gets palindromic after 2 steps: 585
+271 gets palindromic after 2 steps: 787
+272 gets palindromic after 0 steps: 272
+273 gets palindromic after 4 steps: 5115
+274 gets palindromic after 4 steps: 9559
+275 gets palindromic after 5 steps: 44044
+276 gets palindromic after 15 steps: 8836886388
+277 gets palindromic after 3 steps: 15851
+278 gets palindromic after 2 steps: 1661
+279 gets palindromic after 2 steps: 2772
+280 gets palindromic after 4 steps: 2662
+281 gets palindromic after 6 steps: 45254
+282 gets palindromic after 0 steps: 282
+283 gets palindromic after 3 steps: 2552
+284 gets palindromic after 3 steps: 4774
+285 gets palindromic after 3 steps: 6996
+286 gets palindromic after 23 steps: 8813200023188
+287 gets palindromic after 7 steps: 233332
+288 gets palindromic after 2 steps: 1881
+289 gets palindromic after 2 steps: 2992
+290 gets palindromic after 4 steps: 2552
+291 gets palindromic after 4 steps: 6996
+292 gets palindromic after 0 steps: 292
+293 gets palindromic after 3 steps: 2992
+294 gets palindromic after 4 steps: 9339
+295 does not get palindromic in under 10,000 steps
+296 gets palindromic after 7 steps: 881188
+297 gets palindromic after 5 steps: 79497
+298 gets palindromic after 3 steps: 3113
+299 gets palindromic after 3 steps: 5335
+300 gets palindromic after 1 steps: 303
+301 gets palindromic after 1 steps: 404
+302 gets palindromic after 1 steps: 505
+303 gets palindromic after 0 steps: 303
+304 gets palindromic after 1 steps: 707
+305 gets palindromic after 1 steps: 808
+306 gets palindromic after 1 steps: 909
+307 gets palindromic after 2 steps: 1111
+308 gets palindromic after 1 steps: 1111
+309 gets palindromic after 2 steps: 3333
+310 gets palindromic after 1 steps: 323
+311 gets palindromic after 1 steps: 424
+312 gets palindromic after 1 steps: 525
+313 gets palindromic after 0 steps: 313
+314 gets palindromic after 1 steps: 727
+315 gets palindromic after 1 steps: 828
+316 gets palindromic after 1 steps: 929
+317 gets palindromic after 2 steps: 1331
+318 gets palindromic after 2 steps: 2442
+319 gets palindromic after 2 steps: 3553
+320 gets palindromic after 1 steps: 343
+321 gets palindromic after 1 steps: 444
+322 gets palindromic after 1 steps: 545
+323 gets palindromic after 0 steps: 323
+324 gets palindromic after 1 steps: 747
+325 gets palindromic after 1 steps: 848
+326 gets palindromic after 1 steps: 949
+327 gets palindromic after 2 steps: 1551
+328 gets palindromic after 2 steps: 2662
+329 gets palindromic after 2 steps: 3773
+330 gets palindromic after 1 steps: 363
+331 gets palindromic after 1 steps: 464
+332 gets palindromic after 1 steps: 565
+333 gets palindromic after 0 steps: 333
+334 gets palindromic after 1 steps: 767
+335 gets palindromic after 1 steps: 868
+336 gets palindromic after 1 steps: 969
+337 gets palindromic after 2 steps: 1771
+338 gets palindromic after 2 steps: 2882
+339 gets palindromic after 2 steps: 3993
+340 gets palindromic after 1 steps: 383
+341 gets palindromic after 1 steps: 484
+342 gets palindromic after 1 steps: 585
+343 gets palindromic after 0 steps: 343
+344 gets palindromic after 1 steps: 787
+345 gets palindromic after 1 steps: 888
+346 gets palindromic after 1 steps: 989
+347 gets palindromic after 2 steps: 1991
+348 gets palindromic after 3 steps: 5115
+349 gets palindromic after 3 steps: 7337
+350 gets palindromic after 2 steps: 707
+351 gets palindromic after 2 steps: 909
+352 gets palindromic after 2 steps: 1111
+353 gets palindromic after 0 steps: 353
+354 gets palindromic after 3 steps: 6666
+355 gets palindromic after 3 steps: 8888
+356 gets palindromic after 3 steps: 11011
+357 gets palindromic after 2 steps: 1221
+358 gets palindromic after 2 steps: 2332
+359 gets palindromic after 2 steps: 3443
+360 gets palindromic after 2 steps: 747
+361 gets palindromic after 2 steps: 949
+362 gets palindromic after 3 steps: 2662
+363 gets palindromic after 0 steps: 363
+364 gets palindromic after 5 steps: 45254
+365 gets palindromic after 11 steps: 88555588
+366 gets palindromic after 3 steps: 13431
+367 gets palindromic after 2 steps: 1441
+368 gets palindromic after 2 steps: 2552
+369 gets palindromic after 2 steps: 3663
+370 gets palindromic after 2 steps: 787
+371 gets palindromic after 2 steps: 989
+372 gets palindromic after 4 steps: 5115
+373 gets palindromic after 0 steps: 373
+374 gets palindromic after 5 steps: 44044
+375 gets palindromic after 15 steps: 8836886388
+376 gets palindromic after 3 steps: 15851
+377 gets palindromic after 2 steps: 1661
+378 gets palindromic after 2 steps: 2772
+379 gets palindromic after 2 steps: 3883
+380 gets palindromic after 6 steps: 45254
+381 gets palindromic after 4 steps: 13431
+382 gets palindromic after 3 steps: 2552
+383 gets palindromic after 0 steps: 383
+384 gets palindromic after 3 steps: 6996
+385 gets palindromic after 23 steps: 8813200023188
+386 gets palindromic after 7 steps: 233332
+387 gets palindromic after 2 steps: 1881
+388 gets palindromic after 2 steps: 2992
+389 gets palindromic after 3 steps: 7117
+390 gets palindromic after 4 steps: 6996
+391 gets palindromic after 8 steps: 233332
+392 gets palindromic after 3 steps: 2992
+393 gets palindromic after 0 steps: 393
+394 does not get palindromic in under 10,000 steps
+395 gets palindromic after 7 steps: 881188
+396 gets palindromic after 5 steps: 79497
+397 gets palindromic after 3 steps: 3113
+398 gets palindromic after 3 steps: 5335
+399 gets palindromic after 3 steps: 7557
+400 gets palindromic after 1 steps: 404
+401 gets palindromic after 1 steps: 505
+402 gets palindromic after 1 steps: 606
+403 gets palindromic after 1 steps: 707
+404 gets palindromic after 0 steps: 404
+405 gets palindromic after 1 steps: 909
+406 gets palindromic after 2 steps: 1111
+407 gets palindromic after 1 steps: 1111
+408 gets palindromic after 2 steps: 3333
+409 gets palindromic after 2 steps: 4444
+410 gets palindromic after 1 steps: 424
+411 gets palindromic after 1 steps: 525
+412 gets palindromic after 1 steps: 626
+413 gets palindromic after 1 steps: 727
+414 gets palindromic after 0 steps: 414
+415 gets palindromic after 1 steps: 929
+416 gets palindromic after 2 steps: 1331
+417 gets palindromic after 2 steps: 2442
+418 gets palindromic after 2 steps: 3553
+419 gets palindromic after 2 steps: 4664
+420 gets palindromic after 1 steps: 444
+421 gets palindromic after 1 steps: 545
+422 gets palindromic after 1 steps: 646
+423 gets palindromic after 1 steps: 747
+424 gets palindromic after 0 steps: 424
+425 gets palindromic after 1 steps: 949
+426 gets palindromic after 2 steps: 1551
+427 gets palindromic after 2 steps: 2662
+428 gets palindromic after 2 steps: 3773
+429 gets palindromic after 2 steps: 4884
+430 gets palindromic after 1 steps: 464
+431 gets palindromic after 1 steps: 565
+432 gets palindromic after 1 steps: 666
+433 gets palindromic after 1 steps: 767
+434 gets palindromic after 0 steps: 434
+435 gets palindromic after 1 steps: 969
+436 gets palindromic after 2 steps: 1771
+437 gets palindromic after 2 steps: 2882
+438 gets palindromic after 2 steps: 3993
+439 gets palindromic after 3 steps: 9119
+440 gets palindromic after 1 steps: 484
+441 gets palindromic after 1 steps: 585
+442 gets palindromic after 1 steps: 686
+443 gets palindromic after 1 steps: 787
+444 gets palindromic after 0 steps: 444
+445 gets palindromic after 1 steps: 989
+446 gets palindromic after 2 steps: 1991
+447 gets palindromic after 3 steps: 5115
+448 gets palindromic after 3 steps: 7337
+449 gets palindromic after 3 steps: 9559
+450 gets palindromic after 2 steps: 909
+451 gets palindromic after 2 steps: 1111
+452 gets palindromic after 3 steps: 4444
+453 gets palindromic after 3 steps: 6666
+454 gets palindromic after 0 steps: 454
+455 gets palindromic after 3 steps: 11011
+456 gets palindromic after 2 steps: 1221
+457 gets palindromic after 2 steps: 2332
+458 gets palindromic after 2 steps: 3443
+459 gets palindromic after 2 steps: 4554
+460 gets palindromic after 2 steps: 949
+461 gets palindromic after 3 steps: 2662
+462 gets palindromic after 3 steps: 4884
+463 gets palindromic after 5 steps: 45254
+464 gets palindromic after 0 steps: 464
+465 gets palindromic after 3 steps: 13431
+466 gets palindromic after 2 steps: 1441
+467 gets palindromic after 2 steps: 2552
+468 gets palindromic after 2 steps: 3663
+469 gets palindromic after 2 steps: 4774
+470 gets palindromic after 2 steps: 989
+471 gets palindromic after 4 steps: 5115
+472 gets palindromic after 4 steps: 9559
+473 gets palindromic after 5 steps: 44044
+474 gets palindromic after 0 steps: 474
+475 gets palindromic after 3 steps: 15851
+476 gets palindromic after 2 steps: 1661
+477 gets palindromic after 2 steps: 2772
+478 gets palindromic after 2 steps: 3883
+479 gets palindromic after 2 steps: 4994
+480 gets palindromic after 4 steps: 13431
+481 gets palindromic after 3 steps: 2552
+482 gets palindromic after 3 steps: 4774
+483 gets palindromic after 3 steps: 6996
+484 gets palindromic after 0 steps: 484
+485 gets palindromic after 7 steps: 233332
+486 gets palindromic after 2 steps: 1881
+487 gets palindromic after 2 steps: 2992
+488 gets palindromic after 3 steps: 7117
+489 gets palindromic after 3 steps: 9339
+490 gets palindromic after 8 steps: 233332
+491 gets palindromic after 3 steps: 2992
+492 gets palindromic after 4 steps: 9339
+493 does not get palindromic in under 10,000 steps
+494 gets palindromic after 0 steps: 494
+495 gets palindromic after 5 steps: 79497
+496 gets palindromic after 3 steps: 3113
+497 gets palindromic after 3 steps: 5335
+498 gets palindromic after 3 steps: 7557
+499 gets palindromic after 3 steps: 9779
+500 gets palindromic after 1 steps: 505
+501 gets palindromic after 1 steps: 606
+502 gets palindromic after 1 steps: 707
+503 gets palindromic after 1 steps: 808
+504 gets palindromic after 1 steps: 909
+505 gets palindromic after 0 steps: 505
+506 gets palindromic after 1 steps: 1111
+507 gets palindromic after 2 steps: 3333
+508 gets palindromic after 2 steps: 4444
+509 gets palindromic after 2 steps: 5555
+510 gets palindromic after 1 steps: 525
+511 gets palindromic after 1 steps: 626
+512 gets palindromic after 1 steps: 727
+513 gets palindromic after 1 steps: 828
+514 gets palindromic after 1 steps: 929
+515 gets palindromic after 0 steps: 515
+516 gets palindromic after 2 steps: 2442
+517 gets palindromic after 2 steps: 3553
+518 gets palindromic after 2 steps: 4664
+519 gets palindromic after 2 steps: 5775
+520 gets palindromic after 1 steps: 545
+521 gets palindromic after 1 steps: 646
+522 gets palindromic after 1 steps: 747
+523 gets palindromic after 1 steps: 848
+524 gets palindromic after 1 steps: 949
+525 gets palindromic after 0 steps: 525
+526 gets palindromic after 2 steps: 2662
+527 gets palindromic after 2 steps: 3773
+528 gets palindromic after 2 steps: 4884
+529 gets palindromic after 2 steps: 5995
+530 gets palindromic after 1 steps: 565
+531 gets palindromic after 1 steps: 666
+532 gets palindromic after 1 steps: 767
+533 gets palindromic after 1 steps: 868
+534 gets palindromic after 1 steps: 969
+535 gets palindromic after 0 steps: 535
+536 gets palindromic after 2 steps: 2882
+537 gets palindromic after 2 steps: 3993
+538 gets palindromic after 3 steps: 9119
+539 gets palindromic after 4 steps: 25652
+540 gets palindromic after 1 steps: 585
+541 gets palindromic after 1 steps: 686
+542 gets palindromic after 1 steps: 787
+543 gets palindromic after 1 steps: 888
+544 gets palindromic after 1 steps: 989
+545 gets palindromic after 0 steps: 545
+546 gets palindromic after 3 steps: 5115
+547 gets palindromic after 3 steps: 7337
+548 gets palindromic after 3 steps: 9559
+549 gets palindromic after 5 steps: 59895
+550 gets palindromic after 2 steps: 1111
+551 gets palindromic after 3 steps: 4444
+552 gets palindromic after 3 steps: 6666
+553 gets palindromic after 3 steps: 8888
+554 gets palindromic after 3 steps: 11011
+555 gets palindromic after 0 steps: 555
+556 gets palindromic after 2 steps: 2332
+557 gets palindromic after 2 steps: 3443
+558 gets palindromic after 2 steps: 4554
+559 gets palindromic after 2 steps: 5665
+560 gets palindromic after 3 steps: 2662
+561 gets palindromic after 3 steps: 4884
+562 gets palindromic after 5 steps: 45254
+563 gets palindromic after 11 steps: 88555588
+564 gets palindromic after 3 steps: 13431
+565 gets palindromic after 0 steps: 565
+566 gets palindromic after 2 steps: 2552
+567 gets palindromic after 2 steps: 3663
+568 gets palindromic after 2 steps: 4774
+569 gets palindromic after 2 steps: 5885
+570 gets palindromic after 4 steps: 5115
+571 gets palindromic after 4 steps: 9559
+572 gets palindromic after 5 steps: 44044
+573 gets palindromic after 15 steps: 8836886388
+574 gets palindromic after 3 steps: 15851
+575 gets palindromic after 0 steps: 575
+576 gets palindromic after 2 steps: 2772
+577 gets palindromic after 2 steps: 3883
+578 gets palindromic after 2 steps: 4994
+579 gets palindromic after 4 steps: 23232
+580 gets palindromic after 3 steps: 2552
+581 gets palindromic after 3 steps: 4774
+582 gets palindromic after 3 steps: 6996
+583 gets palindromic after 23 steps: 8813200023188
+584 gets palindromic after 7 steps: 233332
+585 gets palindromic after 0 steps: 585
+586 gets palindromic after 2 steps: 2992
+587 gets palindromic after 3 steps: 7117
+588 gets palindromic after 3 steps: 9339
+589 gets palindromic after 8 steps: 1136311
+590 gets palindromic after 3 steps: 2992
+591 gets palindromic after 4 steps: 9339
+592 does not get palindromic in under 10,000 steps
+593 gets palindromic after 7 steps: 881188
+594 gets palindromic after 5 steps: 79497
+595 gets palindromic after 0 steps: 595
+596 gets palindromic after 3 steps: 5335
+597 gets palindromic after 3 steps: 7557
+598 gets palindromic after 3 steps: 9779
+599 gets palindromic after 4 steps: 22022
+600 gets palindromic after 1 steps: 606
+601 gets palindromic after 1 steps: 707
+602 gets palindromic after 1 steps: 808
+603 gets palindromic after 1 steps: 909
+604 gets palindromic after 2 steps: 1111
+605 gets palindromic after 1 steps: 1111
+606 gets palindromic after 0 steps: 606
+607 gets palindromic after 2 steps: 4444
+608 gets palindromic after 2 steps: 5555
+609 gets palindromic after 2 steps: 6666
+610 gets palindromic after 1 steps: 626
+611 gets palindromic after 1 steps: 727
+612 gets palindromic after 1 steps: 828
+613 gets palindromic after 1 steps: 929
+614 gets palindromic after 2 steps: 1331
+615 gets palindromic after 2 steps: 2442
+616 gets palindromic after 0 steps: 616
+617 gets palindromic after 2 steps: 4664
+618 gets palindromic after 2 steps: 5775
+619 gets palindromic after 2 steps: 6886
+620 gets palindromic after 1 steps: 646
+621 gets palindromic after 1 steps: 747
+622 gets palindromic after 1 steps: 848
+623 gets palindromic after 1 steps: 949
+624 gets palindromic after 2 steps: 1551
+625 gets palindromic after 2 steps: 2662
+626 gets palindromic after 0 steps: 626
+627 gets palindromic after 2 steps: 4884
+628 gets palindromic after 2 steps: 5995
+629 gets palindromic after 4 steps: 45254
+630 gets palindromic after 1 steps: 666
+631 gets palindromic after 1 steps: 767
+632 gets palindromic after 1 steps: 868
+633 gets palindromic after 1 steps: 969
+634 gets palindromic after 2 steps: 1771
+635 gets palindromic after 2 steps: 2882
+636 gets palindromic after 0 steps: 636
+637 gets palindromic after 3 steps: 9119
+638 gets palindromic after 4 steps: 25652
+639 gets palindromic after 5 steps: 99099
+640 gets palindromic after 1 steps: 686
+641 gets palindromic after 1 steps: 787
+642 gets palindromic after 1 steps: 888
+643 gets palindromic after 1 steps: 989
+644 gets palindromic after 2 steps: 1991
+645 gets palindromic after 3 steps: 5115
+646 gets palindromic after 0 steps: 646
+647 gets palindromic after 3 steps: 9559
+648 gets palindromic after 5 steps: 59895
+649 gets palindromic after 4 steps: 44044
+650 gets palindromic after 3 steps: 4444
+651 gets palindromic after 3 steps: 6666
+652 gets palindromic after 3 steps: 8888
+653 gets palindromic after 3 steps: 11011
+654 gets palindromic after 2 steps: 1221
+655 gets palindromic after 2 steps: 2332
+656 gets palindromic after 0 steps: 656
+657 gets palindromic after 2 steps: 4554
+658 gets palindromic after 2 steps: 5665
+659 gets palindromic after 2 steps: 6776
+660 gets palindromic after 3 steps: 4884
+661 gets palindromic after 5 steps: 45254
+662 gets palindromic after 11 steps: 88555588
+663 gets palindromic after 3 steps: 13431
+664 gets palindromic after 2 steps: 1441
+665 gets palindromic after 2 steps: 2552
+666 gets palindromic after 0 steps: 666
+667 gets palindromic after 2 steps: 4774
+668 gets palindromic after 2 steps: 5885
+669 gets palindromic after 2 steps: 6996
+670 gets palindromic after 4 steps: 9559
+671 gets palindromic after 5 steps: 44044
+672 gets palindromic after 15 steps: 8836886388
+673 gets palindromic after 3 steps: 15851
+674 gets palindromic after 2 steps: 1661
+675 gets palindromic after 2 steps: 2772
+676 gets palindromic after 0 steps: 676
+677 gets palindromic after 2 steps: 4994
+678 gets palindromic after 4 steps: 23232
+679 gets palindromic after 4 steps: 47674
+680 gets palindromic after 3 steps: 4774
+681 gets palindromic after 3 steps: 6996
+682 gets palindromic after 23 steps: 8813200023188
+683 gets palindromic after 7 steps: 233332
+684 gets palindromic after 2 steps: 1881
+685 gets palindromic after 2 steps: 2992
+686 gets palindromic after 0 steps: 686
+687 gets palindromic after 3 steps: 9339
+688 gets palindromic after 8 steps: 1136311
+689 does not get palindromic in under 10,000 steps
+690 gets palindromic after 4 steps: 9339
+691 does not get palindromic in under 10,000 steps
+692 gets palindromic after 7 steps: 881188
+693 gets palindromic after 5 steps: 79497
+694 gets palindromic after 3 steps: 3113
+695 gets palindromic after 3 steps: 5335
+696 gets palindromic after 0 steps: 696
+697 gets palindromic after 3 steps: 9779
+698 gets palindromic after 4 steps: 22022
+699 gets palindromic after 4 steps: 46464
+700 gets palindromic after 1 steps: 707
+701 gets palindromic after 1 steps: 808
+702 gets palindromic after 1 steps: 909
+703 gets palindromic after 2 steps: 1111
+704 gets palindromic after 1 steps: 1111
+705 gets palindromic after 2 steps: 3333
+706 gets palindromic after 2 steps: 4444
+707 gets palindromic after 0 steps: 707
+708 gets palindromic after 2 steps: 6666
+709 gets palindromic after 2 steps: 7777
+710 gets palindromic after 1 steps: 727
+711 gets palindromic after 1 steps: 828
+712 gets palindromic after 1 steps: 929
+713 gets palindromic after 2 steps: 1331
+714 gets palindromic after 2 steps: 2442
+715 gets palindromic after 2 steps: 3553
+716 gets palindromic after 2 steps: 4664
+717 gets palindromic after 0 steps: 717
+718 gets palindromic after 2 steps: 6886
+719 gets palindromic after 2 steps: 7997
+720 gets palindromic after 1 steps: 747
+721 gets palindromic after 1 steps: 848
+722 gets palindromic after 1 steps: 949
+723 gets palindromic after 2 steps: 1551
+724 gets palindromic after 2 steps: 2662
+725 gets palindromic after 2 steps: 3773
+726 gets palindromic after 2 steps: 4884
+727 gets palindromic after 0 steps: 727
+728 gets palindromic after 4 steps: 45254
+729 gets palindromic after 4 steps: 69696
+730 gets palindromic after 1 steps: 767
+731 gets palindromic after 1 steps: 868
+732 gets palindromic after 1 steps: 969
+733 gets palindromic after 2 steps: 1771
+734 gets palindromic after 2 steps: 2882
+735 gets palindromic after 2 steps: 3993
+736 gets palindromic after 3 steps: 9119
+737 gets palindromic after 0 steps: 737
+738 gets palindromic after 5 steps: 99099
+739 gets palindromic after 17 steps: 5233333325
+740 gets palindromic after 1 steps: 787
+741 gets palindromic after 1 steps: 888
+742 gets palindromic after 1 steps: 989
+743 gets palindromic after 2 steps: 1991
+744 gets palindromic after 3 steps: 5115
+745 gets palindromic after 3 steps: 7337
+746 gets palindromic after 3 steps: 9559
+747 gets palindromic after 0 steps: 747
+748 gets palindromic after 4 steps: 44044
+749 gets palindromic after 4 steps: 68486
+750 gets palindromic after 3 steps: 6666
+751 gets palindromic after 3 steps: 8888
+752 gets palindromic after 3 steps: 11011
+753 gets palindromic after 2 steps: 1221
+754 gets palindromic after 2 steps: 2332
+755 gets palindromic after 2 steps: 3443
+756 gets palindromic after 2 steps: 4554
+757 gets palindromic after 0 steps: 757
+758 gets palindromic after 2 steps: 6776
+759 gets palindromic after 2 steps: 7887
+760 gets palindromic after 5 steps: 45254
+761 gets palindromic after 11 steps: 88555588
+762 gets palindromic after 3 steps: 13431
+763 gets palindromic after 2 steps: 1441
+764 gets palindromic after 2 steps: 2552
+765 gets palindromic after 2 steps: 3663
+766 gets palindromic after 2 steps: 4774
+767 gets palindromic after 0 steps: 767
+768 gets palindromic after 2 steps: 6996
+769 gets palindromic after 4 steps: 67276
+770 gets palindromic after 5 steps: 44044
+771 gets palindromic after 15 steps: 8836886388
+772 gets palindromic after 3 steps: 15851
+773 gets palindromic after 2 steps: 1661
+774 gets palindromic after 2 steps: 2772
+775 gets palindromic after 2 steps: 3883
+776 gets palindromic after 2 steps: 4994
+777 gets palindromic after 0 steps: 777
+778 gets palindromic after 4 steps: 47674
+779 gets palindromic after 6 steps: 475574
+780 gets palindromic after 3 steps: 6996
+781 gets palindromic after 23 steps: 8813200023188
+782 gets palindromic after 7 steps: 233332
+783 gets palindromic after 2 steps: 1881
+784 gets palindromic after 2 steps: 2992
+785 gets palindromic after 3 steps: 7117
+786 gets palindromic after 3 steps: 9339
+787 gets palindromic after 0 steps: 787
+788 does not get palindromic in under 10,000 steps
+789 gets palindromic after 4 steps: 66066
+790 does not get palindromic in under 10,000 steps
+791 gets palindromic after 7 steps: 881188
+792 gets palindromic after 5 steps: 79497
+793 gets palindromic after 3 steps: 3113
+794 gets palindromic after 3 steps: 5335
+795 gets palindromic after 3 steps: 7557
+796 gets palindromic after 3 steps: 9779
+797 gets palindromic after 0 steps: 797
+798 gets palindromic after 4 steps: 46464
+799 gets palindromic after 6 steps: 449944
+800 gets palindromic after 1 steps: 808
+801 gets palindromic after 1 steps: 909
+802 gets palindromic after 2 steps: 1111
+803 gets palindromic after 1 steps: 1111
+804 gets palindromic after 2 steps: 3333
+805 gets palindromic after 2 steps: 4444
+806 gets palindromic after 2 steps: 5555
+807 gets palindromic after 2 steps: 6666
+808 gets palindromic after 0 steps: 808
+809 gets palindromic after 2 steps: 8888
+810 gets palindromic after 1 steps: 828
+811 gets palindromic after 1 steps: 929
+812 gets palindromic after 2 steps: 1331
+813 gets palindromic after 2 steps: 2442
+814 gets palindromic after 2 steps: 3553
+815 gets palindromic after 2 steps: 4664
+816 gets palindromic after 2 steps: 5775
+817 gets palindromic after 2 steps: 6886
+818 gets palindromic after 0 steps: 818
+819 gets palindromic after 4 steps: 89298
+820 gets palindromic after 1 steps: 848
+821 gets palindromic after 1 steps: 949
+822 gets palindromic after 2 steps: 1551
+823 gets palindromic after 2 steps: 2662
+824 gets palindromic after 2 steps: 3773
+825 gets palindromic after 2 steps: 4884
+826 gets palindromic after 2 steps: 5995
+827 gets palindromic after 4 steps: 45254
+828 gets palindromic after 0 steps: 828
+829 gets palindromic after 10 steps: 88555588
+830 gets palindromic after 1 steps: 868
+831 gets palindromic after 1 steps: 969
+832 gets palindromic after 2 steps: 1771
+833 gets palindromic after 2 steps: 2882
+834 gets palindromic after 2 steps: 3993
+835 gets palindromic after 3 steps: 9119
+836 gets palindromic after 4 steps: 25652
+837 gets palindromic after 5 steps: 99099
+838 gets palindromic after 0 steps: 838
+839 gets palindromic after 4 steps: 88088
+840 gets palindromic after 1 steps: 888
+841 gets palindromic after 1 steps: 989
+842 gets palindromic after 2 steps: 1991
+843 gets palindromic after 3 steps: 5115
+844 gets palindromic after 3 steps: 7337
+845 gets palindromic after 3 steps: 9559
+846 gets palindromic after 5 steps: 59895
+847 gets palindromic after 4 steps: 44044
+848 gets palindromic after 0 steps: 848
+849 gets palindromic after 14 steps: 8836886388
+850 gets palindromic after 3 steps: 8888
+851 gets palindromic after 3 steps: 11011
+852 gets palindromic after 2 steps: 1221
+853 gets palindromic after 2 steps: 2332
+854 gets palindromic after 2 steps: 3443
+855 gets palindromic after 2 steps: 4554
+856 gets palindromic after 2 steps: 5665
+857 gets palindromic after 2 steps: 6776
+858 gets palindromic after 0 steps: 858
+859 gets palindromic after 2 steps: 8998
+860 gets palindromic after 11 steps: 88555588
+861 gets palindromic after 3 steps: 13431
+862 gets palindromic after 2 steps: 1441
+863 gets palindromic after 2 steps: 2552
+864 gets palindromic after 2 steps: 3663
+865 gets palindromic after 2 steps: 4774
+866 gets palindromic after 2 steps: 5885
+867 gets palindromic after 2 steps: 6996
+868 gets palindromic after 0 steps: 868
+869 gets palindromic after 22 steps: 8813200023188
+870 gets palindromic after 15 steps: 8836886388
+871 gets palindromic after 3 steps: 15851
+872 gets palindromic after 2 steps: 1661
+873 gets palindromic after 2 steps: 2772
+874 gets palindromic after 2 steps: 3883
+875 gets palindromic after 2 steps: 4994
+876 gets palindromic after 4 steps: 23232
+877 gets palindromic after 4 steps: 47674
+878 gets palindromic after 0 steps: 878
+879 does not get palindromic in under 10,000 steps
+880 gets palindromic after 23 steps: 8813200023188
+881 gets palindromic after 7 steps: 233332
+882 gets palindromic after 2 steps: 1881
+883 gets palindromic after 2 steps: 2992
+884 gets palindromic after 3 steps: 7117
+885 gets palindromic after 3 steps: 9339
+886 gets palindromic after 8 steps: 1136311
+887 does not get palindromic in under 10,000 steps
+888 gets palindromic after 0 steps: 888
+889 gets palindromic after 6 steps: 881188
+890 gets palindromic after 7 steps: 881188
+891 gets palindromic after 5 steps: 79497
+892 gets palindromic after 3 steps: 3113
+893 gets palindromic after 3 steps: 5335
+894 gets palindromic after 3 steps: 7557
+895 gets palindromic after 3 steps: 9779
+896 gets palindromic after 4 steps: 22022
+897 gets palindromic after 4 steps: 46464
+898 gets palindromic after 0 steps: 898
+899 gets palindromic after 17 steps: 133697796331
+900 gets palindromic after 1 steps: 909
+901 gets palindromic after 2 steps: 1111
+902 gets palindromic after 1 steps: 1111
+903 gets palindromic after 2 steps: 3333
+904 gets palindromic after 2 steps: 4444
+905 gets palindromic after 2 steps: 5555
+906 gets palindromic after 2 steps: 6666
+907 gets palindromic after 2 steps: 7777
+908 gets palindromic after 2 steps: 8888
+909 gets palindromic after 0 steps: 909
+910 gets palindromic after 1 steps: 929
+911 gets palindromic after 2 steps: 1331
+912 gets palindromic after 2 steps: 2442
+913 gets palindromic after 2 steps: 3553
+914 gets palindromic after 2 steps: 4664
+915 gets palindromic after 2 steps: 5775
+916 gets palindromic after 2 steps: 6886
+917 gets palindromic after 2 steps: 7997
+918 gets palindromic after 4 steps: 89298
+919 gets palindromic after 0 steps: 919
+920 gets palindromic after 1 steps: 949
+921 gets palindromic after 2 steps: 1551
+922 gets palindromic after 2 steps: 2662
+923 gets palindromic after 2 steps: 3773
+924 gets palindromic after 2 steps: 4884
+925 gets palindromic after 2 steps: 5995
+926 gets palindromic after 4 steps: 45254
+927 gets palindromic after 4 steps: 69696
+928 gets palindromic after 10 steps: 88555588
+929 gets palindromic after 0 steps: 929
+930 gets palindromic after 1 steps: 969
+931 gets palindromic after 2 steps: 1771
+932 gets palindromic after 2 steps: 2882
+933 gets palindromic after 2 steps: 3993
+934 gets palindromic after 3 steps: 9119
+935 gets palindromic after 4 steps: 25652
+936 gets palindromic after 5 steps: 99099
+937 gets palindromic after 17 steps: 5233333325
+938 gets palindromic after 4 steps: 88088
+939 gets palindromic after 0 steps: 939
+940 gets palindromic after 1 steps: 989
+941 gets palindromic after 2 steps: 1991
+942 gets palindromic after 3 steps: 5115
+943 gets palindromic after 3 steps: 7337
+944 gets palindromic after 3 steps: 9559
+945 gets palindromic after 5 steps: 59895
+946 gets palindromic after 4 steps: 44044
+947 gets palindromic after 4 steps: 68486
+948 gets palindromic after 14 steps: 8836886388
+949 gets palindromic after 0 steps: 949
+950 gets palindromic after 3 steps: 11011
+951 gets palindromic after 2 steps: 1221
+952 gets palindromic after 2 steps: 2332
+953 gets palindromic after 2 steps: 3443
+954 gets palindromic after 2 steps: 4554
+955 gets palindromic after 2 steps: 5665
+956 gets palindromic after 2 steps: 6776
+957 gets palindromic after 2 steps: 7887
+958 gets palindromic after 2 steps: 8998
+959 gets palindromic after 0 steps: 959
+960 gets palindromic after 3 steps: 13431
+961 gets palindromic after 2 steps: 1441
+962 gets palindromic after 2 steps: 2552
+963 gets palindromic after 2 steps: 3663
+964 gets palindromic after 2 steps: 4774
+965 gets palindromic after 2 steps: 5885
+966 gets palindromic after 2 steps: 6996
+967 gets palindromic after 4 steps: 67276
+968 gets palindromic after 22 steps: 8813200023188
+969 gets palindromic after 0 steps: 969
+970 gets palindromic after 3 steps: 15851
+971 gets palindromic after 2 steps: 1661
+972 gets palindromic after 2 steps: 2772
+973 gets palindromic after 2 steps: 3883
+974 gets palindromic after 2 steps: 4994
+975 gets palindromic after 4 steps: 23232
+976 gets palindromic after 4 steps: 47674
+977 gets palindromic after 6 steps: 475574
+978 does not get palindromic in under 10,000 steps
+979 gets palindromic after 0 steps: 979
+980 gets palindromic after 7 steps: 233332
+981 gets palindromic after 2 steps: 1881
+982 gets palindromic after 2 steps: 2992
+983 gets palindromic after 3 steps: 7117
+984 gets palindromic after 3 steps: 9339
+985 gets palindromic after 8 steps: 1136311
+986 does not get palindromic in under 10,000 steps
+987 gets palindromic after 4 steps: 66066
+988 gets palindromic after 6 steps: 881188
+989 gets palindromic after 0 steps: 989
+990 gets palindromic after 5 steps: 79497
+991 gets palindromic after 3 steps: 3113
+992 gets palindromic after 3 steps: 5335
+993 gets palindromic after 3 steps: 7557
+994 gets palindromic after 3 steps: 9779
+995 gets palindromic after 4 steps: 22022
+996 gets palindromic after 4 steps: 46464
+997 gets palindromic after 6 steps: 449944
+998 gets palindromic after 17 steps: 133697796331
+999 gets palindromic after 0 steps: 999
+1000 gets palindromic after 1 steps: 1001
+Groups (palindrome, values)
+0 [0]
+1 [1]
+2 [2]
+3 [3]
+4 [4]
+5 [5]
+6 [6]
+7 [7]
+8 [8]
+9 [9]
+6666 [156, 255, 354, 453, 552, 609, 651, 708, 750, 807, 906]
+11 [10, 11]
+44044 [79, 97, 176, 275, 374, 473, 572, 649, 671, 748, 770, 847, 946]
+525 [114, 213, 312, 411, 510, 525]
+1551 [129, 228, 327, 426, 624, 723, 822, 921]
+66066 [789, 987]
+515 [515]
+22 [20, 22]
+535 [535]
+88088 [839, 938]
+33 [12, 21, 30, 33]
+881188 [197, 296, 395, 593, 692, 791, 889, 890, 988]
+22022 [599, 698, 896, 995]
+3113 [199, 298, 397, 496, 694, 793, 892, 991]
+555 [555]
+44 [13, 31, 40, 44]
+9779 [499, 598, 697, 796, 895, 994]
+25652 [539, 638, 836, 935]
+565 [134, 233, 332, 431, 530, 565]
+55 [14, 23, 32, 41, 50, 55]
+4664 [419, 518, 617, 716, 815, 914]
+47674 [679, 778, 877, 976]
+575 [575]
+69696 [729, 927]
+66 [15, 24, 42, 51, 60, 66]
+88555588 [167, 266, 365, 563, 662, 761, 829, 860, 928]
+585 [144, 243, 270, 342, 441, 540, 585]
+77 [16, 25, 34, 43, 52, 61, 70, 77]
+3663 [369, 468, 567, 765, 864, 963]
+8888 [157, 256, 355, 553, 652, 751, 809, 850, 908]
+595 [595]
+1111 [59, 68, 86, 95, 109, 154, 208, 209, 253, 307, 308, 352, 406, 407, 451, 506, 550, 604, 605, 703, 704, 802, 803, 901, 902]
+88 [17, 26, 35, 53, 62, 71, 80, 88]
+606 [105, 204, 402, 501, 600, 606]
+7777 [709, 907]
+99 [18, 27, 36, 45, 54, 63, 72, 81, 90, 99]
+101 [100, 101]
+2662 [164, 229, 263, 280, 328, 362, 427, 461, 526, 560, 625, 724, 823, 922]
+616 [616]
+111 [111]
+626 [115, 214, 412, 511, 610, 626]
+13431 [168, 183, 267, 366, 381, 465, 480, 564, 663, 762, 861, 960]
+6776 [659, 758, 857, 956]
+121 [19, 28, 29, 37, 38, 46, 47, 56, 64, 65, 73, 74, 82, 83, 91, 92, 110, 121]
+9339 [195, 294, 489, 492, 588, 591, 687, 690, 786, 885, 984]
+636 [636]
+1661 [179, 278, 377, 476, 674, 773, 872, 971]
+131 [131]
+646 [125, 224, 422, 521, 620, 646]
+79497 [198, 297, 396, 495, 594, 693, 792, 891, 990]
+141 [120, 141]
+5775 [519, 618, 816, 915]
+656 [656]
+8813200023188 [89, 98, 187, 286, 385, 583, 682, 781, 869, 880, 968]
+151 [151]
+666 [135, 234, 432, 531, 630, 666]
+363 [39, 48, 57, 75, 84, 93, 132, 231, 330, 363]
+161 [130, 161]
+676 [676]
+4774 [185, 284, 469, 482, 568, 581, 667, 680, 766, 865, 964]
+7337 [349, 448, 547, 745, 844, 943]
+171 [171]
+686 [145, 244, 442, 541, 640, 686]
+181 [140, 181]
+1136311 [589, 688, 886, 985]
+696 [696]
+233332 [188, 193, 287, 386, 391, 485, 490, 584, 683, 782, 881, 980]
+3773 [329, 428, 527, 725, 824, 923]
+191 [191]
+23232 [579, 678, 876, 975]
+707 [106, 152, 205, 251, 304, 350, 403, 502, 601, 700, 707]
+1221 [159, 258, 357, 456, 654, 753, 852, 951]
+45254 [166, 182, 190, 265, 281, 364, 380, 463, 562, 629, 661, 728, 760, 827, 926]
+5665 [559, 658, 856, 955]
+202 [200, 202]
+67276 [769, 967]
+717 [717]
+7887 [759, 957]
+89298 [819, 918]
+2772 [279, 378, 477, 576, 675, 774, 873, 972]
+5335 [299, 398, 497, 596, 695, 794, 893, 992]
+222 [210, 222]
+737 [737]
+6886 [619, 718, 817, 916]
+232 [232]
+747 [126, 162, 180, 225, 261, 324, 360, 423, 522, 621, 720, 747]
+242 [220, 242]
+757 [757]
+None [196, 295, 394, 493, 592, 689, 691, 788, 790, 879, 887, 978, 986]
+212 [212]
+252 [252]
+5885 [569, 668, 866, 965]
+767 [136, 235, 334, 433, 532, 631, 730, 767]
+11011 [158, 257, 356, 455, 554, 653, 752, 851, 950]
+3333 [309, 408, 507, 705, 804, 903]
+262 [230, 262]
+777 [777]
+727 [116, 215, 314, 413, 512, 611, 710, 727]
+898 [898]
+272 [272]
+1441 [169, 268, 367, 466, 664, 763, 862, 961]
+787 [146, 172, 245, 271, 344, 370, 443, 542, 641, 740, 787]
+4884 [69, 78, 87, 96, 165, 264, 429, 462, 528, 561, 627, 660, 726, 825, 924]
+282 [240, 282]
+99099 [639, 738, 837, 936]
+2332 [259, 358, 457, 556, 655, 754, 853, 952]
+797 [797]
+292 [292]
+8998 [859, 958]
+808 [107, 206, 305, 503, 602, 701, 800, 808]
+3883 [379, 478, 577, 775, 874, 973]
+303 [102, 150, 201, 300, 303]
+818 [818]
+1331 [119, 218, 317, 416, 614, 713, 812, 911]
+313 [313]
+828 [117, 216, 315, 513, 612, 711, 810, 828]
+7997 [719, 917]
+2882 [239, 338, 437, 536, 635, 734, 833, 932]
+323 [112, 211, 310, 323]
+838 [838]
+333 [333]
+848 [127, 226, 325, 523, 622, 721, 820, 848]
+133697796331 [899, 998]
+6996 [186, 192, 285, 291, 384, 390, 483, 582, 669, 681, 768, 780, 867, 966]
+343 [122, 160, 221, 320, 343]
+1881 [189, 288, 387, 486, 684, 783, 882, 981]
+858 [858]
+4444 [155, 254, 409, 452, 508, 551, 607, 650, 706, 805, 904]
+353 [353]
+9559 [175, 274, 449, 472, 548, 571, 647, 670, 746, 845, 944]
+868 [137, 236, 335, 533, 632, 731, 830, 868]
+5995 [529, 628, 826, 925]
+878 [878]
+3443 [359, 458, 557, 755, 854, 953]
+8836886388 [177, 276, 375, 573, 672, 771, 849, 870, 948]
+373 [373]
+888 [147, 246, 345, 543, 642, 741, 840, 888]
+383 [142, 170, 241, 340, 383]
+46464 [699, 798, 897, 996]
+4994 [479, 578, 677, 776, 875, 974]
+1771 [139, 238, 337, 436, 634, 733, 832, 931]
+7557 [399, 498, 597, 795, 894, 993]
+68486 [749, 947]
+393 [393]
+2442 [219, 318, 417, 516, 615, 714, 813, 912]
+909 [108, 153, 207, 306, 351, 405, 450, 504, 603, 702, 801, 900, 909]
+404 [103, 301, 400, 404]
+919 [919]
+449944 [799, 997]
+3993 [339, 438, 537, 735, 834, 933]
+414 [414]
+9119 [439, 538, 637, 736, 835, 934]
+929 [118, 217, 316, 415, 514, 613, 712, 811, 910, 929]
+424 [113, 311, 410, 424]
+939 [939]
+2992 [194, 289, 293, 388, 392, 487, 491, 586, 590, 685, 784, 883, 982]
+434 [434]
+5555 [509, 608, 806, 905]
+949 [128, 163, 227, 326, 361, 425, 460, 524, 623, 722, 821, 920, 949]
+475574 [779, 977]
+444 [123, 321, 420, 444]
+959 [959]
+454 [454]
+1991 [149, 248, 347, 446, 644, 743, 842, 941]
+969 [138, 237, 336, 435, 534, 633, 732, 831, 930, 969]
+4554 [459, 558, 657, 756, 855, 954]
+7117 [389, 488, 587, 785, 884, 983]
+5233333325 [739, 937]
+464 [133, 331, 430, 464]
+979 [979]
+474 [474]
+989 [148, 173, 247, 346, 371, 445, 470, 544, 643, 742, 841, 940, 989]
+3553 [319, 418, 517, 715, 814, 913]
+484 [49, 58, 67, 76, 85, 94, 143, 341, 440, 484]
+999 [999]
+1001 [1000]
+15851 [178, 277, 376, 475, 574, 673, 772, 871, 970]
+494 [494]
+545 [124, 223, 260, 322, 421, 520, 545]
+59895 [549, 648, 846, 945]
+2552 [184, 269, 283, 290, 368, 382, 467, 481, 566, 580, 665, 764, 863, 962]
+505 [104, 203, 250, 302, 401, 500, 505]
+5115 [174, 249, 273, 348, 372, 447, 471, 546, 570, 645, 744, 843, 942]
