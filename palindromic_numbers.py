@@ -22,13 +22,19 @@ def calc(origin):
     if is_palindrome(val):
         print('%d gets palindromic after %d steps: %d' % (origin, steps, val))
         return val
+    print('%d does not get palindromic in under 10,000 steps' % origin)
     return None
 
 calc(123)
 calc(286)
 calc(196196871)
 
+# Bonus: see which input numbers, through 1000, yield identical palindromes.
 palins = defaultdict(list)
 for n in range(1001):
     key = calc(n)
     palins[key].append(n)
+
+print('Groups (palindrome, values)')
+for key, val in palins.items():
+    print(key, val)
